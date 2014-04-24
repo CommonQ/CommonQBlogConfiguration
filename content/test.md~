@@ -1,13 +1,17 @@
-Title: My First Blog
+Title: test
 Date: 2014-04-22
-Category: Blog
-Tags: pelican, publishing
+Category: Mood
+Tags: Blog, Mood
 Slug:test
 Author: CommonQ
-Summary: Short version for index and feeds
+Summary: 博客搭建了一天终于成功了
 
-这里是正文
-========
-我的第一篇博客
-This is the content of my super blog post.
+###纪念
+
+2014年4月22日搭建了一天的博客终于成功了，在此留念！
+![haha](/images/profile.jpg)
+
+
+
+
 

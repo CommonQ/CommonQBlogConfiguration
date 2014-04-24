@@ -83,6 +83,8 @@ SITEMAP = {
 
 
 STATIC_PATHS = [u"static/upload",
+		u"static/img",
+		"images",
                 "extra/bdsitemap.txt",
                 "extra/google5b5f348354004b46.html",
                 "extra/404.html",
